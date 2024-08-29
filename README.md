@@ -10,6 +10,7 @@ O aplicativo de Chatbot com interação de conversa com a inteligencia artificai
 
 Compose: Usei Compose para criar uma interface intuitiva e responsiva, aproveitando sua flexibilidade e simplicidade.
 Gemini: A tecnologia Gemini foi fundamental para incorporar uma inteligência artificial robusta e adaptativa, melhorando a interação e o suporte oferecido pelo chatbot.
+
 🔍 Características do Projeto:
 
 Respostas Contextuais: O chatbot é capaz de entender e responder de forma mais precisa, proporcionando uma experiência de usuário mais natural.
